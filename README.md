@@ -1,11 +1,58 @@
-<h1 align="center">Hi 👋, I'm Krish Patel</h1>
-<h3 align="center">A student curious about Linux and automation from India</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Linux commands, Python and Networking**
+# 🚀 Welcome to My Digital Terminal
 
-- 📫 How to reach me **24amtics161@gmail.com**
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Hi%2C%20I'm%20%40KrishPatel%20%F0%9F%91%BE" alt="Typing SVG" />
+</a>
 
+</div>
+
+---
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1500&color=00FF9F&vCenter=true&width=400&lines=%24+cat+about.md" alt="Typing SVG" />
+</a>
+
+```yaml
+name: "Patel Krish"
+location: "India"
+currently: "Learning git, networking and docker"
+learning:
+  - "Python"
+  - "Linux Ricing"
+  - "How to not break my system"
+hobbies:
+  - "Terminal customisation"
+  - "Watching movies and anime"
+  - "Reading novels"
+motto: "It works on my machine ¯\_(ツ)_/¯"
+```
+
+---
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1500&color=00FF9F&vCenter=true&width=400&lines=%24+ls+%7E%2Ftoolkit%2F" alt="Typing SVG" />
+</a>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash"/>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux"/>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+      <br>Git
+    </td>
+  </tr>
+</table>
