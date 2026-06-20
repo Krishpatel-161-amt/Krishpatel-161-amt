@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KrishPatel&color=00FF9F&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Krishpatel-161-amt&color=00FF9F&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -22,10 +22,11 @@
 
 ```python
 krish = {
-    "status"    : "Learning and building",
+    "status"    : "Learning in public 🚀",
     "focus"     : ["Python automation", "Linux & sysadmin", "API wrangling"],
     "currently" : "Building scripts that save me from doing things twice",
-    "goal"      : "Automate and build tools that save time",
+    "goal"      : "Break things deliberately, fix them with purpose",
+    "fun_fact"  : "I named my first Python dict after my cat 🐱",
 }
 ```
 
@@ -64,3 +65,7 @@ krish = {
 ```
 
 ---
+
+<div align="center">
+<sub>Built with curiosity & too many terminal tabs open</sub>
+</div>
